@@ -1,8 +1,20 @@
 Rosane Ananias
 Data & Analytics
 
-Trabalho em projetos envolvendo Ciência de Dados e Análise de Dados. Já vivenciei em diferentes áreas implantação de projetos, gestão estratégica e modelagem de negócios. Sou apaixonada pela ciência de dados, empreendedorismo, tecnologia e livros. Vejo a área de dados como uma grande ponte entre as áreas estratégicas de uma empresa e tecnologia. 
-Mais que ter dados, é importante saber o que fazer com eles para atingir o diferencial em qualquer nicho. Com decisões guiadas em dados saimos do achismo para a ação assertiva. 
+Com mais de 17 anos de experiência, apaixonada por transformar dados em inteligência estratégica que impulsiona decisões e gera resultados reais.
+Atualmente no Grupo Invita, atuo na liderança de iniciativas focadas em dados, como:
+
+- Automação de processos de ETL;
+- Criação de dashboards interativos e relatórios estratégicos;
+- Apoio direto à diretoria e ao conselho com análises que oferecem base sólida para decisões de alto impacto.
+
+Minha atuação é marcada pela combinação entre pensamento analítico e visão de negócio. Tenho domínio de ferramentas como Power BI, SQL e Python, que utilizo para entregar soluções escaláveis, com foco em eficiência operacional, governança e performance.
+
+Minha carreira inclui experiências nas áreas de implantação de sistemas, seguros, operações e death care, o que me deu uma visão sistêmica e multidisciplinar — e fortaleceu ainda mais minha capacidade de conectar dados ao contexto real do negócio.
+
+Sou movida pela inovação, melhoria contínua e busca por excelência. Acredito que os dados certos, tratados da forma certa, têm o poder de transformar organizações e impactar pessoas.
+
+Meu propósito é claro: traduzir complexidade em clareza e apoiar decisões que constroem o futuro com inteligência.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
